@@ -18,7 +18,8 @@ Mathematics for computer graphics
   <https://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/1482250926/>`_
 - `Foundations of Game Engine Development, Volume 1: Mathematics, 1st Edition (2016) by Eric Lengyel  
   <https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749>`_
-- `Math for Programmers: 3D graphics, machine learning, and simulations with Python (2021) by Paul Orland`_
+- `Math for Programmers: 3D graphics, machine learning, and simulations with Python (2021) by Paul Orland 
+  <https://www.amazon.com/Math-Programmers-Graphics-Learning-Simulations/dp/B094612RZ7>`_
 - `Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition (2011) by Eric Lengyel 
   <https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869>`_ 
 
