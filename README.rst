@@ -23,9 +23,9 @@ Computer Graphics (CMU 15-462/662, fall 2020) by Keenan Crane
  - 25 videos
  - **Course information:** http://15462.courses.cs.cmu.edu/
  
- Introduction to Computer Graphics (MIT, 6.837, fall 2020) by Justin Solomon
- ---------------------------------------------------------------------------
- `:information_source:` 
+Introduction to Computer Graphics (MIT, 6.837, fall 2020) by Justin Solomon
+---------------------------------------------------------------------------
+`:information_source:` 
 
-  - **Playlist link:** `youtube.com <https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh>`_
-  - 22 videos
+ - **Playlist link:** `youtube.com <https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh>`_
+ - 22 videos
